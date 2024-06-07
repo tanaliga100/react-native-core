@@ -122,5 +122,3 @@ const styles = StyleSheet.create({
     gap: 8
   }
 });
-
-this is a test 
